@@ -68,5 +68,5 @@ func main() {
 		json.NewEncoder(w).Encode(CharacterFound)
 	})
 
-	http.ListenAndServe(":3001", Mux)
+	http.ListenAndServe(":8000", Mux)
 }
