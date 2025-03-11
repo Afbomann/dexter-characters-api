@@ -2,11 +2,11 @@
   {
     "Id": "1",
     "FirstName": "Dexter",
-    "LastName": "Morgan"
-  },
-  {
-    "Id": "2",
-    "FirstName": "Debra",
-    "LastName": "Morgan"
+    "LastName": "Morgan",
+    "Aliases": ["Bob", "Kyle Butler"],
+    "Nicknames": ["Dex", "The Bay Harbor Butcher", "The Donut Guy"],
+    "Status": "alive",
+    "DateOfBirth": "1971-02-01",
+    "Gender": "male"
   }
 ]

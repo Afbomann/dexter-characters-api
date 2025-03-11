@@ -8,9 +8,14 @@ import (
 )
 
 type Character struct {
-	Id        string
-	FirstName string
-	LastName  string
+	Id          string
+	FirstName   string
+	LastName    string
+	Aliases     []string
+	Nicknames   []string
+	Status      string
+	DateOfBirth string
+	Gender      string
 }
 
 func GetCharacterById(Characters []Character, Id string) *Character {
