@@ -8,5 +8,85 @@
     "Status": "alive",
     "DateOfBirth": "1971-02-01",
     "Gender": "male"
+  },
+  {
+    "Id": "2",
+    "FirstName": "Debra",
+    "LastName": "Morgan",
+    "Aliases": ["Brandy"],
+    "Nicknames": ["Deb", "Mrs. Ice Truck Killer"],
+    "Status": "dead",
+    "DateOfBirth": "1979-12-07",
+    "Gender": "female"
+  },
+  {
+    "Id": "3",
+    "FirstName": "Harrison",
+    "LastName": "Morgan",
+    "Aliases": [],
+    "Nicknames": ["Harry"],
+    "Status": "dead",
+    "DateOfBirth": null,
+    "Gender": "male"
+  },
+  {
+    "Id": "4",
+    "FirstName": "Doris",
+    "LastName": "Morgan",
+    "Aliases": [],
+    "Nicknames": [],
+    "Status": "dead",
+    "DateOfBirth": "1953-10-17",
+    "Gender": "female"
+  },
+  {
+    "Id": "5",
+    "FirstName": "Harrison",
+    "LastName": "Morgan, Jr",
+    "Aliases": [],
+    "Nicknames": ["Bud"],
+    "Status": "dead",
+    "DateOfBirth": null,
+    "Gender": "male"
+  },
+  {
+    "Id": "6",
+    "FirstName": "Rita",
+    "LastName": "Morgan",
+    "Aliases": [],
+    "Nicknames": ["Whore", "Skinny Bitch", "Mom of the Year"],
+    "Status": "dead",
+    "DateOfBirth": "1973-04-19",
+    "Gender": "female"
+  },
+  {
+    "Id": "7",
+    "FirstName": "Harrison",
+    "LastName": "Morgan",
+    "Aliases": [],
+    "Nicknames": ["Prince Harry", "Little Angel"],
+    "Status": "alive",
+    "DateOfBirth": "2009-03-7",
+    "Gender": "male"
+  },
+  {
+    "Id": "8",
+    "FirstName": "Astor",
+    "LastName": "Bennett",
+    "Aliases": [],
+    "Nicknames": ["Miss Perfect"],
+    "Status": "alive",
+    "DateOfBirth": "1998-07-02",
+    "Gender": "female"
+  },
+  {
+    "Id": "9",
+    "FirstName": "Cody",
+    "LastName": "Bennett",
+    "Aliases": [],
+    "Nicknames": ["Code", "Kidlet"],
+    "Status": "alive",
+    "DateOfBirth": null,
+    "Gender": "male"
   }
 ]
